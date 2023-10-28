@@ -1,0 +1,12 @@
+28/10/2023 23:09:15 devpinoyLogger Launching Chrome
+28/10/2023 23:09:19 freemarker.cache Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+28/10/2023 23:09:19 freemarker.cache TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+28/10/2023 23:09:19 freemarker.cache TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+28/10/2023 23:09:19 freemarker.cache TemplateLoader.findTemplateSource("Extent.ftl"): Found
+28/10/2023 23:09:19 freemarker.cache Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/mrishad/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+28/10/2023 23:09:21 devpinoyLogger Launching Chrome
+28/10/2023 23:09:26 freemarker.cache Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+28/10/2023 23:09:26 freemarker.cache TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+28/10/2023 23:09:26 freemarker.cache TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+28/10/2023 23:09:26 freemarker.cache TemplateLoader.findTemplateSource("Extent.ftl"): Found
+28/10/2023 23:09:26 freemarker.cache Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/mrishad/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

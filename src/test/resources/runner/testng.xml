@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Page Object Model with Page Factories">
+
+	<listeners>
+
+		<listener class-name="com.code.listeners.CustomListeners" />
+		<listener class-name="com.code.errorcollectors.TestListenerAdapter" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+
+	</listeners>
+
+
+	<test name="Home Page Test">
+		<classes>
+			<class name="com.code.testCases.HomePageTest" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Login Test">
+		<classes>
+			<class name="com.code.testCases.LoginTest" />
+		</classes>
+	</test> <!-- Test -->
+
+
+</suite> <!-- Suite -->
